@@ -1,0 +1,9 @@
+D:\UT-41\Управление проектами\Пример\bin\Debug\Пример.exe.config
+D:\UT-41\Управление проектами\Пример\bin\Debug\Пример.exe
+D:\UT-41\Управление проектами\Пример\bin\Debug\Пример.pdb
+D:\UT-41\Управление проектами\Пример\obj\Debug\Пример.csprojResolveAssemblyReference.cache
+D:\UT-41\Управление проектами\Пример\obj\Debug\Пример.Form1.resources
+D:\UT-41\Управление проектами\Пример\obj\Debug\Пример.Properties.Resources.resources
+D:\UT-41\Управление проектами\Пример\obj\Debug\Пример.csproj.GenerateResource.Cache
+D:\UT-41\Управление проектами\Пример\obj\Debug\Пример.exe
+D:\UT-41\Управление проектами\Пример\obj\Debug\Пример.pdb
